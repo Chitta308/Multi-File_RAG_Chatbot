@@ -1,0 +1,15 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pandas
+numpy
+openpyxl
+python-docx
+pypdf
+streamlit
+python-dotenv
+google-generativeai
+tiktoken
+PyPDF2
+langchain_google_genai
