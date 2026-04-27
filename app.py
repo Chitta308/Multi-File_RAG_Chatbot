@@ -6,7 +6,8 @@ from src.loader import load_documents
 from src.chunking import chunk_data
 from src.embedding import get_embedding
 # from src.vector_db import create_vector_store, load_vector_store
-from src.vector_store_db import create_vector_store, load_vector_store
+# from src.vector_store_db import create_vector_store, load_vector_store
+from src.vector_db import create_vector_store, load_vector_store
 from src.rag_pipeline import generate_answer
 
 
