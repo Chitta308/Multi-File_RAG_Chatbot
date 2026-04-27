@@ -14,3 +14,8 @@ tiktoken
 PyPDF2
 langchain_google_genai
 langchain-text-splitters
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
